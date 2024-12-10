@@ -40,3 +40,7 @@ This project implements the classic **Battleship game** with a computer opponent
    python gui.py
    ```
 ---
+## Demo
+![Board View](images/board_view)
+![Demo](image/demo)
+

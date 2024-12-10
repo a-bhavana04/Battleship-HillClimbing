@@ -42,5 +42,5 @@ This project implements the classic **Battleship game** with a computer opponent
 ---
 ## Demo
 ![Board View](images/board_views.png)
-![Demo](/image/demo.png)
+![Demo](images/demo.png)
 

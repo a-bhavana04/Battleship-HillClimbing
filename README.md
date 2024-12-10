@@ -41,6 +41,6 @@ This project implements the classic **Battleship game** with a computer opponent
    ```
 ---
 ## Demo
-![Board View](images/board_view)
-![Demo](image/demo)
+![Board View](Battleship-HillClimbing/images/board_view)
+![Demo](Battleship-HillClimbing/image/demo)
 
